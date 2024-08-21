@@ -1,6 +1,6 @@
 # churn_analysis on POWER BI
 
-# Airlines-Dashboard
+# Attrition Dashboard
 
 ### Dashboard Link : https://drive.google.com/file/d/10ctZx53u9zvF7H4e4S7kPg1RjiriDFX0/view?usp=sharing
 
