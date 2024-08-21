@@ -37,7 +37,8 @@ This dashboard helps the companyto  understand their customers better. It helps 
 
   
 
-
+<img src="SS/powerbi1.png">
+<img src="SS/powerbi2.png">
 
 
 
